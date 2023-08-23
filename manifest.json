@@ -1,0 +1,15 @@
+{
+	"files": {
+		"index.js": "3afdfb1ac2626dfdd02c42bd8b2ffd88c90441536b18db9f287d149c2baa1a15",
+		"module.json": "ba997d36455d0233820a0f8c1fab823d7480d7cc3e5a2a3d39d04e17be6bfb2f",
+		"setting_migration.js": "cf4eccb45949375168c1eaa506ecfb68737657a0c3460c61a58e295608157088"
+	},
+	"defs": {
+		"C_PLAYER_LOCATION": 5,
+		"C_VISIT_NEW_SECTION": "raw",
+		"S_ADMIN_HOLD_CHARACTER": [2,"raw"],
+		"S_INSTANT_MOVE": 3,
+		"S_LOAD_TOPO": 3,
+		"S_SPAWN_ME": 3
+	}
+}
