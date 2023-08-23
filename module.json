@@ -10,5 +10,5 @@
 		"settingsFile": "config.json",
 		"settingsMigrator": "setting_migration.js"
 	},
-	"servers": ["https://raw.githubusercontent.com/kygas/quick-load/master/"]
+	"servers": ["https://raw.githubusercontent.com/X0RPR0/quick-load/master/"]
 }
